@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luis Henrique</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luishb211" alt="luishb211" /></a> </p>
+- 🔭 I’m currently **pursuing a degree in computer engineering.**
+
+- 🌱 I’m currently learning **MySQL, python and C#**
+
+- 📫 How to reach me **luishbsantiago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
