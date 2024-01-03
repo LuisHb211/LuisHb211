@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **pursuing a degree in computer engineering.**
 
-- 🌱 I’m currently learning **MySQL, python and C#**
+- 🌱 I’m currently learning **MySQL, python and Django**
 
 - 📫 How to reach me **luishbsantiago@gmail.com**
 
